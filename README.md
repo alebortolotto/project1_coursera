@@ -1,2 +1,2 @@
 # project1_coursera
-First project on corusera course
+First project on coursera course
